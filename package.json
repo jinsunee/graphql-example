@@ -1,0 +1,11 @@
+{
+  "name": "graphql-example",
+  "version": "0.0.1",
+  "private": true,
+  "description": "monorepo for graphql example",
+  "main": "index.js",
+  "workspaces": [
+    "frontend",
+    "server"
+  ]
+}
